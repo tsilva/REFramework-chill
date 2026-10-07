@@ -1,4 +1,8 @@
-# REFramework-chill
+<p align="center">
+  <!-- repo-tagline:start -->
+  <strong>🥽 Play Resident Evil 7 VR with experimental comfort improvements 🎮</strong>
+  <!-- repo-tagline:end -->
+</p>
 
 Opinionated RE7 VR comfort fork of Praydog's REFramework. Experimental, Quest 3 / Virtual Desktop / VDXR focused.
 
